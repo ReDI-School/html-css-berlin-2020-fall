@@ -13,14 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: COURSE_NAME
-description: This is the homepage of the "COURSE_NAME" course at ReDI School
+title: HTML and CSS
+description: This is the homepage of the "HTML and CSS" course at ReDI School
 footer_content: "Made with ❤ by teachers at <a href=\"https://www.redi-school.org\">ReDI School</a>."
-aux_links:
-  "Example Link 1":
-    - "https://en.wikipedia.org/wiki/Link"
-  "Example Link 2":
-    - "https://en.wikipedia.org/wiki/Link"
 
 # Build settings
 markdown: kramdown

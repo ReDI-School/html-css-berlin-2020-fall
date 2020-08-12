@@ -1,91 +1,39 @@
 ---
-title: Lesson 3
+title: What We Need
 nav_order: 3
-has_children: true
 ---
 
-# Lesson 3: remember to put better titles
+# What We Need
 
-1. TOC
-{:toc}
+## Atom
 
+Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for
+plug-ins, developed by GitHub. There are many other free editors but to keep things simple, let's all work with this
+one. It should be already on your laptops. You can learn more and also download it from https://atom.io.
 
-Material:
-- [Wikipedia](https://en.wikipedia.org/wiki/Berlin)
+![Atom](atom.png)
 
-## Part 1
+## Browser
 
-This is an example list:
+There are many browsers in the market: Chrome, Firefox, Safari, Opera, Internet Explorer, Edge and a few other ones. We
+will use Google Chrome, which is the most popular at the moment and a solid product. If you don't have it installed, you
+can download it from www.google.com/chrome.
 
-* item 1
-* item 2
-* item 3
-* item 4
-* item 5
+![Chrome](chrome.png)
 
-Here is some sample code in Java:
+## A good folder structure
 
-```java
-// Hello World in Java
+We will follow conventions to make it is easier for each of us to see and understand the different projects. We will
+create a folder called ReDI HTML&CSS Lessons and inside that folder we will make one new folder per project. Each
+project folder will have two extra folders; one for all the images, called img and one for the css files. At root level
+(that is, inside the project folder) we will have the different HTML files.
 
-class HelloWorld {
-  static public void main( String args[] ) {
-    System.out.println( "Hello World!" );
-  }
-}
-```
+![Forlders](folders.png)
 
-Here is some sample code in Python:
+## Slack
 
-```python
-# Program to check if a number is prime or not
+There are many communication tools, but we officially chose Slack. There we have a channel for the class where we can
+share materials, examples, links, updates about the classes etc. Everyone is on that channel so let's check if we have
+it installed and is working. If it's not on your computer, you can download it from slack.com.
 
-num = 407
-
-# To take input from the user
-#num = int(input("Enter a number: "))
-
-# prime numbers are greater than 1
-if num > 1:
-   # check for factors
-   for i in range(2,num):
-       if (num % i) == 0:
-           print(num,"is not a prime number")
-           print(i,"times",num//i,"is",num)
-           break
-   else:
-       print(num,"is a prime number")
-       
-# if input number is less than
-# or equal to 1, it is not prime
-else:
-   print(num,"is not a prime number")
-```
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
-
-## Part 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
-
-## Part 3
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
+![Slack](slack.jpg)
