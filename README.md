@@ -1,20 +1,15 @@
 ![ReDI](redi_banner.png)
 
-# COURSE_NAME
+# HTML and CSS
 
-This is the support project for the "COURSE_NAME" course at [ReDI School](https://www.redi-school.org).
+This is the support project for the "HTML and CSS" course at [ReDI School](https://www.redi-school.org).
 
 The website is visible at:
 
-  **https://redi-school.github.io/COURSE_NAME**
+  **https://redi-school.github.io/html-css-berlin-2020-fall**
 
 This website was generated from the [course-template](https://github.com/ReDI-School/course-template).
 You can create your own course website creating a repository out of the same template.
-
-## Configuring the project
-
-Please replace COURSE_NAME in this file with the name of the course, as configured in GitHub.
-This must be the GitHub project name and it's used in the final URL. Then delete this paragraph.
 
 ## Authoring the website
 
