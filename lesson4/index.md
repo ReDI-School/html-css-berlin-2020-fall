@@ -11,8 +11,6 @@ Hypertext Markup Language (HTML) is the standard markup language for creating we
 - Hypertext: Documents link to each other
 - Markup: Describes the semantic role of parts of a document
 
----
-
 ## Semantic Markup
 
 Many HTML tags have semantic meaning. That is, the element itself conveys some information about the type of content contained between the opening and closing tags. With semantic markup the tags themselves become a way to tell a machine (whether a browser, a computer, a smartphone, or another smart device) something about the meaning of the content.
@@ -30,8 +28,6 @@ Many HTML tags have semantic meaning. That is, the element itself conveys some i
 ```
     <body></body>
 ```
-
----
 
 ## HTML Tags
 
