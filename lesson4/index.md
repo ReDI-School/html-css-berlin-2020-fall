@@ -3,6 +3,8 @@ title: What is HTML?
 nav_order: 4
 ---
 
+# What is HTML? 
+
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
 
 - Hypertext Markup Language: HTML is a language for writing documents
@@ -79,6 +81,6 @@ Let's all follow these steps:
 
 Learn more:
 
-[W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
-[W3Schools: HTML Editors](https://www.w3schools.com/html/html_editors.asp)
-[W3Schools: HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp)
+[W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)  
+[W3Schools: HTML Editors](https://www.w3schools.com/html/html_editors.asp)  
+[W3Schools: HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp)  
