@@ -7,7 +7,7 @@ nav_order: 6
 
 ## What we have learned so far
 
-All HTML tags (at least until now) have a semantic meaning: headings should be written with H1 (bigger) to H6 (smaller); sentences and paragraphs should be done with P and lists (including a navigation, which is a list of links) should be done with UL or OL, depending on the case.
+All HTML tags (at least until now) have a semantic meaning: headings should be written with `h1` (bigger) to `h6` (smaller); sentences and paragraphs should be done with `p` and lists (including a navigation, which is a list of links) should be done with `ul` or `ol`, depending on the case.
 
 - Headings: `h1` to `h6`
 - Paragraphs with `p`
@@ -21,7 +21,7 @@ Let's do a quick page with the elements we know. The page should include:
 - At least one paragraph: `p`
 - At least two lists; one `ol` (ordered list) and one `ul` (unordered list)
 
-Here's an example of a [Museums page]().
+Here's an example of a [Museums page](/exercises/museums.html).
 
 ## Ideas
 
