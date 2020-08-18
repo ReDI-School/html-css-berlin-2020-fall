@@ -23,7 +23,7 @@ Let's do a quick page with the elements we know. The page should include:
 - At least one paragraph: `p`
 - At least two lists; one `ol` (ordered list) and one `ul` (unordered list)
 
-Here's an example of a [Museums page](/exercises/museums.html).
+Here's an example of a [Museums page](./museums.html).
 
 ## Ideas
 
