@@ -9,7 +9,8 @@ nav_order: 5
 
 ## The <!DOCTYPE> Declaration
 
-The <!DOCTYPE> Declaration represents the document type, and helps browsers to display web pages correctly. It must only appear once, at the top of the page (before any HTML tags).
+The <!DOCTYPE> Declaration represents the document type, and helps browsers to display web pages correctly. It must only
+appear once, at the top of the page (before any HTML tags).
 
 - The `<!DOCTYPE>` declaration is not case sensitive.
 - The `<!DOCTYPE>` declaration for HTML5 is: `<!DOCTYPE html>`
@@ -32,7 +33,9 @@ The <!DOCTYPE> Declaration represents the document type, and helps browsers to d
 <h4>This is how the h4 looks like</h4>
 <h5>This is h5, quite small</h5>
 <h6>This is h6, the smallest one</h6>
-<p>This is a paragraph. Browsers do not display the HTML tags, but use them to render the content of the page. It's important to use the right HTML tags for each content element. Semantics are important: a well structured HTML document will be rendered correctly by all browsers and properly scanned and stored by the search engines.</p>
+<p>This is a paragraph. Browsers do not display the HTML tags, but use them to render the content of the page. It's
+important to use the right HTML tags for each content element. Semantics are important: a well structured HTML document
+will be rendered correctly by all browsers and properly scanned and stored by the search engines.</p>
 
 ## Quick Exercise
 

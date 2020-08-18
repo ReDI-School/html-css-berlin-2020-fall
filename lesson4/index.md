@@ -3,9 +3,10 @@ title: What is HTML?
 nav_order: 4
 ---
 
-# What is HTML? 
+# What is HTML?
 
-Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With
+Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
 
 - Hypertext Markup Language: HTML is a language for writing documents
 - Hypertext: Documents link to each other
@@ -13,11 +14,13 @@ Hypertext Markup Language (HTML) is the standard markup language for creating we
 
 ## Semantic Markup
 
-Many HTML tags have semantic meaning. That is, the element itself conveys some information about the type of content contained between the opening and closing tags. With semantic markup the tags themselves become a way to tell a machine (whether a browser, a computer, a smartphone, or another smart device) something about the meaning of the content.
+Many HTML tags have semantic meaning. That is, the element itself conveys some information about the type of content
+contained between the opening and closing tags. With semantic markup the tags themselves become a way to tell a machine
+(whether a browser, a computer, a smartphone, or another smart device) something about the meaning of the content.
 
 ## HTML structure
 
-**Heading**: it contains informations about the document such as title, scripts, styles, meta information, and more: 
+**Heading**: it contains informations about the document such as title, scripts, styles, meta information, and more:
 
 ```
     <head></head>
@@ -77,6 +80,6 @@ Let's all follow these steps:
 
 **Learn more**:
 
-[W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)  
-[W3Schools: HTML Editors](https://www.w3schools.com/html/html_editors.asp)  
+[W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+[W3Schools: HTML Editors](https://www.w3schools.com/html/html_editors.asp)
 [W3Schools: HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp)  **
