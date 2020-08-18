@@ -1,0 +1,80 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #fdfdf8;
+  color: #212121;
+  padding: 2em 3em;
+}
+
+h1 {
+  background-color: #1D3557;
+  color: #F1FAEE;
+  padding: .5rem 1em;
+  font-weight: normal;
+}
+
+h2 {
+  border-bottom: 2px solid #457B9D;
+  color: #1D3557;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #E63946;
+  text-transform: uppercase;
+  border-bottom: 2px solid #E63946;
+  margin: 2em 0 0 0;
+}
+
+li {
+  margin-bottom: .3em;
+}
+
+ul,
+ol {
+  margin-bottom: 3em;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+li a {
+  color: #F46036;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  font-size: 125%;
+}

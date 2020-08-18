@@ -1,0 +1,65 @@
+
+
+body {
+  font-family: sans-serif;
+  background-color: #eaeae6;
+  color: #212121;
+  padding:1em 2em;
+}
+
+h1 {
+  background-color: #1d3557;
+  color: #fff;
+  padding: .3em .6em;
+  font-weight: normal;
+}
+
+
+h2 {
+  border-bottom: 2px solid #457890;
+  padding-bottom: .1em;
+  color: #457890;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin-top: 2em;
+}
+
+li {
+  margin-bottom: .5em;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+
+.museum {
+  border:1px solid #999;
+  background-color: #fdfdf8;
+  padding: 1em;
+  margin-bottom: 1em;
+  padding-right: 10em;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom center;
+}
+/*
+#neues {
+  background-image: url("https://images.divisare.com/images/f_auto,q_auto,w_800/v1486370451/cjethfaoyzrfvhlppjwg/valentina-solano-neues-museum.jpg");
+}
+
+
+#pergamon {
+  background-image: url("https://www.smb.museum/fileadmin/_processed_/8/4/csm_03_Kontakt_54647ae73e.jpg");
+}
+¨/
+
+
+
+
+body {
+  font-size: 125%;
+}
