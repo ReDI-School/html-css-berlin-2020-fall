@@ -121,3 +121,9 @@ This is an image as a link: [![The Count](grafzahl2.jpg)](https://www.google.com
 ```
 <a href="https://www.google.com"><img src="./grafzahl2.jpg"></a>
 ```
+
+**Learn more**:
+
+- [W3Schools: HTML Images](https://www.w3schools.com/html/html_images.asp)
+- [W3Schools: HTML Links](https://www.w3schools.com/html/html_links.asp)
+- [W3Schools: HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)

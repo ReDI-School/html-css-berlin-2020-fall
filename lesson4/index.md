@@ -80,6 +80,6 @@ Let's all follow these steps:
 
 **Learn more**:
 
-[W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
-[W3Schools: HTML Editors](https://www.w3schools.com/html/html_editors.asp)
-[W3Schools: HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp)  **
+- [W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+- [W3Schools: HTML Editors](https://www.w3schools.com/html/html_editors.asp)
+- [W3Schools: HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp)
