@@ -1,0 +1,43 @@
+
+.genTable {
+  border: 5px solid #000;
+  overflow-x: scroll;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  width: 1800px;
+  position: relative;
+}
+
+tr td {
+  background-color: hotpink;
+  padding: .5rem 1rem;
+  border: 3px solid #fff;
+  height: 1rem;
+  width: 2rem;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+thead {
+  top: 0;
+  width: 100%;
+  padding: 1rem;
+  background-color: #fff;
+}
+
+
+tr:nth-child(odd) td {
+  background-color: pink;
+}
+
+
+tr:nth-child(odd) td a {
+  color: #fff;
+}
+
+
+tr td:nth-child(5)  {
+  width: 50%;
+}
