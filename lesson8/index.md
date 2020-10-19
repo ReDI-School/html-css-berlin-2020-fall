@@ -29,7 +29,7 @@ Please compare carefully [the four options](./correct-render.pdf) and choose the
 
 You can see the examples below or [check the errors on a pdf](./find-the-errors.pdf).
 
-```
+```html
 EXAMPLE ONE
 
 <h1>Welcome to ReDI school!</h2>
@@ -78,7 +78,7 @@ EXAMPLE THREE
 
 ### This is the HTML; what will the browser show?
 
-```
+```html
 <!-- Welcome -->
 <h1>Welcome to ReDI school!</h1>
 <p>We are learning how to do a page with</p>
@@ -92,4 +92,3 @@ EXAMPLE THREE
     <li>comments</li>-->
 </ul>
 ```
-

@@ -50,19 +50,19 @@ Lists are one of the most used HTML tags. There are two kind of lists:
 ## Unordered Lists
 
 <ul>
-  <li>This is the first item</li>
-  <li>This is the second item</li>
-  <li>This is the third item</li>
-  <li>This is the fourth item</li>
+    <li>This is the first item</li>
+    <li>This is the second item</li>
+    <li>This is the third item</li>
+    <li>This is the fourth item</li>
 </ul>
 
 ## Ordered Lists
 
 <ol>
-  <li>This is the first item</li>
-  <li>This is the second item</li>
-  <li>This is the third item</li>
-  <li>This is the fourth item</li>
+    <li>This is the first item</li>
+    <li>This is the second item</li>
+    <li>This is the third item</li>
+    <li>This is the fourth item</li>
 </ol>
 
 ## Another Quick Exercise

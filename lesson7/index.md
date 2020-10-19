@@ -14,7 +14,7 @@ can be done with HTML Comments.
 The comments start with `<!--` and end with `-->`. Anything on an HTML document between these two tags won't appear on
 the browser.
 
-```
+```html
 <!-- Main navigation -->
 <ul>
     <li>About</li><!-- Harrold, please add the links later -->
@@ -27,9 +27,9 @@ the browser.
 **This will be the result:**
 
 <ul>
-  <li>About</li>
-  <li>Work</li>
-  <li>Contact</li>
+    <li>About</li>
+    <li>Work</li>
+    <li>Contact</li>
 </ul>
 
 ## HTML Links // Click me!
@@ -57,7 +57,7 @@ Links _between_ documents that can be __anywhere__ in the world
 ![Tenor](tenor.jpg)
 
 <video style="width: 100%;" class="center" id="video_D30_10_008_html5_api" autoplay="" loop="" preload="auto" poster="//cdn8.dissolve.com/p/D30_10_008/D30_10_008_0004_600.jpg" muted="">
-  <source src="https://cdn6.dissolve.com/p/D30_10_008/D30_10_008_detail.mp4" type="video/mp4">
+    <source src="https://cdn6.dissolve.com/p/D30_10_008/D30_10_008_detail.mp4" type="video/mp4">
 </video>
 
 ## Links // How To
@@ -70,7 +70,7 @@ another page. This link is called a **hyperlink**.
 Hyperlinks are created with [anchor elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a), which
 generally look like:
 
-```
+```html
 <a href="https://www.google.com/">Google</a>
 ```
 
@@ -96,7 +96,7 @@ Make an Internet shopping guide (just a list), with 5 items like: "If you need s
 
 BTW: The attribute `target="_blank"` will open a link in a new tab!
 
-```
+```html
 <a href="https://www.google.de" target="_blank">Google</a>
 ```
 
@@ -112,13 +112,13 @@ Remember, what was inside the anchor tag `<a>` when making a text link?
 
 [This is a text link](https://www.google.com/)
 
-```
+```html
 <a href="https://www.google.com">This is a text link</a>
 ```
 
 This is an image as a link: [![The Count](grafzahl2.jpg)](https://www.google.com/)
 
-```
+```html
 <a href="https://www.google.com"><img src="./grafzahl2.jpg"></a>
 ```
 

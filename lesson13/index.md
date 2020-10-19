@@ -13,7 +13,7 @@ equal in "power":
 
 Let's check this example. Which one is more important?
 
-```
+```css
 li {
     color:green;
 }
@@ -24,7 +24,7 @@ li.special {
 
 **What about now?**
 
-```
+```css
 li#special {
     color:green;
 }

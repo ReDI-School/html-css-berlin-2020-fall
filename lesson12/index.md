@@ -9,7 +9,7 @@ The three most used CSS Selectors are the Element, the ID and the Class.
 
 ## The element selector selects elements based on the element name
 
-```
+```css
 h1 {
     color: #990000;
     border-bottom: #990000;
@@ -23,7 +23,7 @@ h1 {
 - **Important rule**: there should be only one ID per page **with the same name**. There could be many IDs, but all of
 them should have different names
 
-```
+```html
 <h1 id="title">Welcome to ReDI School</h1>
 
 #title {
@@ -39,7 +39,7 @@ them should have different names
 - There is no limit to the number of classes per HTML file so you can have as many as you want but...if you find
 yourself adding too many on one page, there's probably an easier way to do it :)
 
-```
+```html
 <ul class="nobullets">
 
 .nobullets {
@@ -49,7 +49,7 @@ yourself adding too many on one page, there's probably an easier way to do it :)
 
 ## You can combine IDs with Class
 
-```
+```html
 <h1 id="title" class="bigger">Welcome to ReDI School</h1>
 
 h1 {
@@ -77,7 +77,7 @@ h1 {
 
 Selectors can be nested to give you more precise control.
 
-```
+```html
 <div id="header">
     <a href="#home">Home</a>
 </div>

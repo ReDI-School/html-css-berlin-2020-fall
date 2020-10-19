@@ -13,7 +13,7 @@ CSS stands for Cascading Style Sheet. It describes how HTML elements are to be d
 
 Here's a sintax example of a CSS rule:
 
-```
+```css
 selector {
     property: value;
 }
@@ -26,7 +26,7 @@ selector {
 - Each declaration includes a CSS property name and a value, separated by a colon.
 - A CSS declaration always ends with a semicolon, and declaration blocks are surrounded by curly braces.
 
-```
+```css
 h4 {
     color: #0066CC;
     font-style: italic;

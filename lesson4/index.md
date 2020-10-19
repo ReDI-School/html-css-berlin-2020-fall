@@ -22,14 +22,14 @@ contained between the opening and closing tags. With semantic markup the tags th
 
 **Heading**: it contains informations about the document such as title, scripts, styles, meta information, and more:
 
-```
-    <head></head>
+```html
+<head></head>
 ```
 
 **Body**: it contains everything you see on the web: text, images, graphic and other elements.
 
-```
-    <body></body>
+```html
+<body></body>
 ```
 
 ## HTML Tags
@@ -46,14 +46,12 @@ HTML tags are element names surrounded by angle brackets: `<tagname>content goes
 
 Below is a visualization of an HTML page structure:
 
-```
+```html
 <!DOCTYPE html>
 <html>
-
     <head>
         <title>Page title</title>
     </head>
-
     <body>
         <h1>This is a heading</h1>
         <p>This is a paragraph.</p>

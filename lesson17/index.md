@@ -15,7 +15,7 @@ A pseudo-class is used to define a special state of an element. For example, it 
 
 ### Syntax
 
-```
+```css
 selector:pseudo-class {
   property: value;
 }
