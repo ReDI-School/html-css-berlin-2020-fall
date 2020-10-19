@@ -7,7 +7,9 @@ nav_order: 10
 
 ## What is CSS?
 
-CSS stands for Cascading Style Sheet. It describes how HTML elements are to be displayed on different screens and in print. It works on top of the HTML and makes use of the tree-structure of the HTML documents. The HTML elements inherit stylistic properties through CSS.
+CSS stands for Cascading Style Sheet. It describes how HTML elements are to be displayed on different screens and in 
+print. It works on top of the HTML and makes use of the tree-structure of the HTML documents. The HTML elements inherit 
+stylistic properties through CSS.
 
 ### How do we write CSS?
 
@@ -43,7 +45,8 @@ Here is the [Museum's page](./museums.html) example. Let's do some really basic 
 
 All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout.
 
-The CSS box model is essentially a box that wraps around every HTML element. It consists of margins, borders, padding, and the actual content.
+The CSS box model is essentially a box that wraps around every HTML element. It consists of margins, borders, padding, 
+and the actual content.
 
 
 - **Content**: The content of the box, where text and images appear

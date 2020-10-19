@@ -9,8 +9,8 @@ nav_order: 5
 
 ## The <!DOCTYPE> Declaration
 
-The <!DOCTYPE> Declaration represents the document type, and helps browsers to display web pages correctly. It must only
-appear once, at the top of the page (before any HTML tags).
+The `<!DOCTYPE>` Declaration represents the document type, and helps browsers to display web pages correctly. It must 
+only appear once, at the top of the page (before any HTML tags).
 
 - The `<!DOCTYPE>` declaration is not case sensitive.
 - The `<!DOCTYPE>` declaration for HTML5 is: `<!DOCTYPE html>`

@@ -68,7 +68,7 @@ h1 {
 
 - Use IDs to identify main areas of a page: header, footer, content, main navigation, a photo gallery etc.
 - Use classes to mark the exceptions in the code
- - For example, if you will remove the bullets from every `ul`, you don't need to apply a class to every UL, you can
+ - For example, if you will remove the bullets from every `ul`, you don't need to apply a class to every `ul`, you can
  define that in the `ul`
 - Take advantage of the tree structure of an HTML document: style first for the main tags and then go deeper.
  - For example, apply the text styling to `body`, so you don't have to add it to `p`, `li` or any other element.

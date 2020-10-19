@@ -9,7 +9,8 @@ nav_order: 3
 
 Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for
 plug-ins, developed by GitHub. There are many other free editors but to keep things simple, let's all work with this
-one. It should be already on your laptops. You can learn more and also download it from [https://atom.io](https://atom.io).
+one. It should be already on your laptops. You can learn more and also download it from 
+[https://atom.io](https://atom.io).
 
 ![Atom](atom.png)
 
@@ -34,6 +35,7 @@ project folder will have two extra folders; one for all the images, called img a
 
 There are many communication tools, but we officially chose Slack. There we have a channel for the class where we can
 share materials, examples, links, updates about the classes etc. Everyone is on that channel so let's check if we have
-it installed and is working. If it's not on your computer, you can download it from [https://slack.com](https://slack.com).
+it installed and is working. If it's not on your computer, you can download it from 
+[https://slack.com](https://slack.com).
 
 <img src="./slack.jpg" width="100" height="100" />

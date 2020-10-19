@@ -17,7 +17,7 @@ A pseudo-class is used to define a special state of an element. For example, it 
 
 ```css
 selector:pseudo-class {
-  property: value;
+    property: value;
 }
 ```
 
@@ -75,11 +75,14 @@ A CSS pseudo-element is used to style specified parts of an element. For example
 
 Notice the double colon notation - **::first-line** versus **:first-line**
 
-The double colon replaced the single-colon notation for pseudo-elements in CSS3. This was an attempt from W3C to distinguish between pseudo-classes and pseudo-elements. The single-colon syntax was used for both pseudo-classes and pseudo-elements in CSS2 and CSS1.
+The double colon replaced the single-colon notation for pseudo-elements in CSS3. This was an attempt from W3C to 
+distinguish between pseudo-classes and pseudo-elements. The single-colon syntax was used for both pseudo-classes and 
+pseudo-elements in CSS2 and CSS1.
 
 ### CSS - The ::after Pseudo-element
 
-The **::after** pseudo-element can be used to insert some content after the content of an element. The **::before** pseudo-element insert the content before the element. Obviously.
+The **::after** pseudo-element can be used to insert some content after the content of an element. The **::before** 
+pseudo-element insert the content before the element. Obviously.
 
 ## Learn more
 

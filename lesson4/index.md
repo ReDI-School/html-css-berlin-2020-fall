@@ -36,7 +36,7 @@ contained between the opening and closing tags. With semantic markup the tags th
 
 HTML tags are element names surrounded by angle brackets: `<tagname>content goes here...</tagname>`
 
-- HTML tags normally come in pairs like `<p> and </p>`
+- HTML tags normally come in pairs like `<p>` and `</p>`
 
 - The first tag in a pair is the start tag, the second tag is the end tag
 - The end tag is written like the start tag, but with a forward slash inserted before the tag name
