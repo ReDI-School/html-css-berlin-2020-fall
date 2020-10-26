@@ -1,14 +1,14 @@
 ---
-title: Css Animations
+title: Css Animations Part 1
 nav_order: 22
 ---
 
-# Css Animations
+# Css Animations Part 1
 
 Most, if not all modern websites make use of animations. Chances are when you hover your mouse over a link, or tap a button on your
 phone / tablet, a css property will change - perhaps a color, or text decoration, or things may even move around.
 
-Today we'll learn how to apply these simple animations to add some sparkle to your sites, and then look at how more complex animations can be made using `keyframes`.
+In this lesson we'll learn how to apply these simple animations to add some sparkle to your sites!
 
 Here is an [example](./sunset.html) of the power of css animation!
 
@@ -19,13 +19,13 @@ In lesson 17 we took a look at Pseudo-classes. The one we're going to look at fo
 let's say we have a menu link with some text:
 
 ```css
-menu-link {
+.menu-link {
     color: red;
 }
 ```
 
 ```css
-menu-link:hover {
+.menu-link:hover {
     color: blue;
     text-decoration: underline;
 }
@@ -45,7 +45,7 @@ Let's add some hover effects to our websites, or play around with a new html fil
 -   This is where our friend transition comes in! transition will make this change across a specified amount of time.
 
 ```css
-menu-link:hover {
+.menu-link:hover {
     color: blue;
     text-decoration: underline;
     transition: all 1s ease-in-out 0.5s;
@@ -57,7 +57,7 @@ menu-link:hover {
     is the equivalent of writing as a shorthand:
 
 ```css
-menu-link:hover {
+.menu-link:hover {
     color: blue;
     text-decoration: underline;
     transition-property: all;
@@ -76,14 +76,6 @@ What is each property doing?
 
 Let's add some transitions!
 
-### Transforms
-
-coming soon...
-
-### Keyframes
-
-coming soon...
-
 ## Learn more
 
--   [Mozilla guide to transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
+-   [Mozilla: Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)

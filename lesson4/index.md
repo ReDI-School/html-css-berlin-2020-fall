@@ -8,9 +8,9 @@ nav_order: 4
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With
 Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
 
-- Hypertext Markup Language: HTML is a language for writing documents
-- Hypertext: Documents link to each other
-- Markup: Describes the semantic role of parts of a document
+-   Hypertext Markup Language: HTML is a language for writing documents
+-   Hypertext: Documents link to each other
+-   Markup: Describes the semantic role of parts of a document
 
 ## Semantic Markup
 
@@ -36,11 +36,11 @@ contained between the opening and closing tags. With semantic markup the tags th
 
 HTML tags are element names surrounded by angle brackets: `<tagname>content goes here...</tagname>`
 
-- HTML tags normally come in pairs like `<p>` and `</p>`
+-   HTML tags normally come in pairs like `<p>` and `</p>`
 
-- The first tag in a pair is the start tag, the second tag is the end tag
-- The end tag is written like the start tag, but with a forward slash inserted before the tag name
-- **Tip**: The start tag is also called the opening tag, and the end tag the closing tag.
+-   The first tag in a pair is the start tag, the second tag is the end tag
+-   The end tag is written like the start tag, but with a forward slash inserted before the tag name
+-   **Tip**: The start tag is also called the opening tag, and the end tag the closing tag.
 
 ## HTML Page Structure
 
@@ -57,7 +57,6 @@ Below is a visualization of an HTML page structure:
         <p>This is a paragraph.</p>
         <p>This is another paragraph.</p>
     </body>
-
 </html>
 ```
 
@@ -78,6 +77,6 @@ Let's all follow these steps:
 
 **Learn more**:
 
-- [W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
-- [W3Schools: HTML Editors](https://www.w3schools.com/html/html_editors.asp)
-- [W3Schools: HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp)
+-   [W3Schools: HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
+-   [W3Schools: HTML Editors](https://www.w3schools.com/html/html_editors.asp)
+-   [W3Schools: HTML Semantic](https://www.w3schools.com/html/html5_semantic_elements.asp)
