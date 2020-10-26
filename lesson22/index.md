@@ -33,8 +33,8 @@ menu-link:hover {
 
 What are we doing here?
 
--   When a user `hovers` over the menu link element. the color will change, and the text will be underlined.
--   There are lots and lots of css properties we can change like this, but not all.
+-   When a user `hovers` over the menu link element, the color will change, and the text will be underlined.
+-   There are lots and lots of css properties we can target, but not all.
 -   Generally, if a property is part of a range (eg a number, or a color) we can animate like this.
 
 Let's add some hover effects to our websites, or play around with a new html file!
@@ -53,7 +53,6 @@ menu-link:hover {
 ```
 
 -   If we were to open our website now, we should see the properties animating over 1 second. But, what is the transition property actually doing?
-
 -   Transition is a `shorthand` (combining multiple css properties in one line, for example margin, border) which covers different properties, below
     is the equivalent of writing as a shorthand:
 
@@ -77,6 +76,10 @@ What is each property doing?
 
 Let's add some transitions!
 
+### Transforms
+
+coming soon...
+
 ### Keyframes
 
 coming soon...
@@ -84,7 +87,3 @@ coming soon...
 ## Learn more
 
 -   [Mozilla guide to transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
-
-```
-
-```
