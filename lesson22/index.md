@@ -10,7 +10,7 @@ phone / tablet, a css property will change - perhaps a color, or text decoration
 
 Today we'll learn how to apply these simple animations to add some sparkle to your sites, and then look at how more complex animations can be made using `keyframes`.
 
-Here is an [example](./index.html) of the power of css animation!
+Here is an [example](./sunset.html) of the power of css animation!
 
 ### Animating using Pseudo-classes:
 
