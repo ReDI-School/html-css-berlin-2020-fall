@@ -1,0 +1,85 @@
+/* Keyframes for the sky */
+
+
+@keyframes sunset-sky {
+  10% {
+    background-color: #fec051;
+  }
+
+  25% {
+    background-color: #ff8967;
+  }
+
+  45% {
+    background-color: #fd6051;
+  }
+
+  80% {
+    background-color: #392033;
+  }
+
+  90% {
+    background-color: #310e68;
+  }
+}
+
+/* Keyframes for the sun */
+@keyframes sunset-sun {
+  100% {
+    transform: translateY(800px);
+  }
+}
+/* Keyframes for the moon */
+@keyframes moon {
+  70% {
+    opacity: 0.6;
+  }
+
+  90% {
+    opacity: 1;
+  }
+}
+
+@keyframes sunset-sky-gradients {
+  10% {
+    background-color: #f5d020;
+    background-image: linear-gradient(315deg, #f5d020 0%, #f53803 74%);
+  }
+
+  25% {
+    background-color: #a40606;
+    background-image: linear-gradient(315deg, #f53803 0%, #d98324 74%);
+  }
+
+  45% {
+    background-color: #42378f;
+    background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);
+  }
+
+  80% {
+    background-color: #310e68;
+    background-image: linear-gradient(316deg, #310e68 0%, #5f0f40 74%);
+  }
+}
+
+@keyframes sunset-sky-gradients {
+  10% {
+    background-color: #f5d020;
+    background-image: linear-gradient(315deg, #f5d020 0%, #f53803 74%);
+  }
+
+  25% {
+    background-color: #a40606;
+    background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+  }
+
+  45% {
+    background-color: #42378f;
+    background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);
+  }
+
+  80% {
+    background-color: #310e68;
+    background-image: linear-gradient(316deg, #310e68 0%, #5f0f40 74%);
+  }
+}

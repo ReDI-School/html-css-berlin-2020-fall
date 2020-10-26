@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+img {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-image: url("folder_name/file_name.jpg");
+}
+
+.sky {
+  background-color: #ffe577;
+  animation-name: sunset-sky-gradients;
+  animation-duration: 18s;
+  animation-delay: 0s;
+  animation-direction: normal;
+}
+
+.sun {
+  background-color: orange;
+  height: 230px;
+  width: 230px;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  left: calc(50% - 115px);
+  box-shadow: 0px 0px 30px 10px orange;
+  animation-name: sunset-sun;
+  animation-duration: 15s;
+  transform: translateX(-25%);
+  animation-direction: normal;
+}
+
+.moon {
+  background-color: transparent;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: -60px 15px whitesmoke;
+  position: absolute;
+  left: 16%;
+  top: 8%;
+  opacity: 0;
+  animation-name: moon;
+  animation-duration: 7s;
+  animation-delay: 8s;
+  animation-direction: forwards;
+}
