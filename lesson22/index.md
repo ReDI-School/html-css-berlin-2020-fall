@@ -52,7 +52,7 @@ menu-link:hover {
 }
 ```
 
--   If we were to open our website now, we should see the properties animating over 1 second. But, what is the transition property actually doing?
+-   If we were to open our website now, we should see the properties animating when we trigger them. But, what is the transition property actually doing?
 -   Transition is a `shorthand` (combining multiple css properties in one line, for example margin, border) which covers different properties, below
     is the equivalent of writing as a shorthand:
 
