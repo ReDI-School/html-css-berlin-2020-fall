@@ -34,15 +34,15 @@ let's say we have a menu link with some text:
 What are we doing here?
 
 -   When a user `hovers` over the menu link element, the color will change, and the text will be underlined.
--   There are lots and lots of css properties we can target, but not all.
+-   There are lots and lots of css properties we can animate, but not all.
 -   Generally, if a property is part of a range (eg a number, or a color) we can animate like this.
 
 Let's add some hover effects to our websites, or play around with a new html file!
 
 ### Actually Animating :D
 
--   We can change propeties now, but we aren't really animating, we're just changing a property with no smooth transition.
--   This is where our friend transition comes in! transition will make this change across a specified amount of time.
+-   We can change properties now, but we aren't really animating, we're just changing going frome one state to another instantly.
+-   This is where our friend `transition` comes in!
 
 ```css
 .menu-link:hover {
@@ -70,7 +70,7 @@ Let's add some hover effects to our websites, or play around with a new html fil
 What is each property doing?
 
 -   transition-property: which properties will be animated. we can animate all, or choose 1 or more individually.
--   transition-duration: how long the animation takes
+-   transition-duration: how long the animation takes.
 -   transition-timing-function: a little complex, but you can think of it as if the speed of the animation is smooth, or it speeds up, slows down etc.
 -   transition-delay: how long after the animtation is trigged, that it should actually begin.
 

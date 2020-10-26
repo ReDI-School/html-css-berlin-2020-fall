@@ -73,7 +73,9 @@ You might be wondering, if i can just do something like this:
 }
 ```
 
-Then why bother using transform(scale)? the answer is a little complex, and beyond the scope of our course, but basically, it's easier for the browser to change size or position using transform, than changing the height / width etc directly. meaning your animations will be much smoother.
+Then why bother using transform:scale()?
+
+The answer is a little complex, and beyond the scope of our course; but basically, it's easier for the browser to change size or position using transform, than changing the height / width etc directly. This means your animations will be much smoother!
 
 ### Keyframes:
 
