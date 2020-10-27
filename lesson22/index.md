@@ -32,7 +32,7 @@ let's say we have a menu link with some text:
 
 What are we doing here?
 
--   When a user `hovers` over the menu link element, the color will change, and the text will be underlined.
+-   When a user `hover`s over the menu link element, the color will change, and the text will be underlined.
 -   There are lots and lots of CSS properties we can animate, but not all.
 -   Generally, if a property is part of a range (eg a number, or a color) we can animate like this.
 
