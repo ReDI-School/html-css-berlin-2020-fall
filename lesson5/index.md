@@ -45,7 +45,7 @@ Take the HTML file that you code before (the one with `h1` and `p`) and add `h2`
 
 ## Unordered and ordered lists
 
-Lists are one of the most used HTML tags. There are two kind of lists:
+Lists are one of the most used HTML tags. There are two kinds of lists:
 
 ## Unordered Lists
 
@@ -73,7 +73,7 @@ Now add two lists to the HTML file: `ol` and `ul`.
 
 ## Exercise on paper
 
-Let's recognize headings, paragraphs and lists on our paper websites
+Let's recognize headings, paragraphs, and lists on our paper websites
 
 1. Using a colored marker, write on your website which elements you are using:
 2. Mark the different headings as `h1`, `h2`, `h3`...
