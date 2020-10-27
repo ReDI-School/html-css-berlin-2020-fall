@@ -1,5 +1,5 @@
 ---
-title: Css Animations Part 2
+title: CSS Animations Part 2
 nav_order: 23
 ---
 
