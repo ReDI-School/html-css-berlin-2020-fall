@@ -1,9 +1,9 @@
 ---
-title: Css Animations Part 1
+title: CSS Animations Part 1
 nav_order: 22
 ---
 
-# Css Animations Part 1
+# CSS Animations Part 1
 
 Most, if not all modern websites make use of animations. Chances are when you hover your mouse over a link or tap a button on your phone/tablet, a CSS property will change - perhaps a color, or text-decoration, or things may even move around.
 
