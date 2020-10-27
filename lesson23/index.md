@@ -3,7 +3,7 @@ title: CSS Animations Part 2
 nav_order: 23
 ---
 
-# Css Animations Part 2
+# CSS Animations Part 2
 
 Let's take a look at some more CSS animation concepts:
 
