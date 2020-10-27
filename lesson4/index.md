@@ -20,13 +20,13 @@ contained between the opening and closing tags. With semantic markup the tags th
 
 ## HTML structure
 
-**Heading**: it contains informations about the document such as title, scripts, styles, meta information, and more:
+**Heading**: it contains information about the document such as title, scripts, styles, meta information, and more:
 
 ```html
 <head></head>
 ```
 
-**Body**: it contains everything you see on the web: text, images, graphic and other elements.
+**Body**: it contains everything you see on the web: text, images, graphics, and other elements.
 
 ```html
 <body></body>
@@ -40,7 +40,7 @@ HTML tags are element names surrounded by angle brackets: `<tagname>content goes
 
 -   The first tag in a pair is the start tag, the second tag is the end tag
 -   The end tag is written like the start tag, but with a forward slash inserted before the tag name
--   **Tip**: The start tag is also called the opening tag, and the end tag the closing tag.
+-   **Tip**: The start tag is also called the opening tag, and the end tag is called the closing tag.
 
 ## HTML Page Structure
 
