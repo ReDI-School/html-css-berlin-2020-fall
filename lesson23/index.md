@@ -10,7 +10,7 @@ Let's take a look at some more css animation concepts:
 -   Transforms
 -   Keyframes
 
-### The CSS Property Transform:
+## The CSS Property Transform:
 
 This handy property lets us move an element, rotate it, distort it or change the size.
 
@@ -77,8 +77,77 @@ Then why bother using transform:scale()?
 
 The answer is a little complex, and beyond the scope of our course; but basically, it's easier for the browser to change size or position using transform, than changing the height / width etc directly. This means your animations will be much smoother!
 
-### Keyframes:
+## The CSS Property Keyframes:
+
+Keyframes allow us to make complex multistep animations, compared to transitions.
+
+Here is a very simple example:
+
+```css
+@keyframes slidein {
+  from {
+    transform: translateX(0%);
+  }
+
+  to {
+    transform: translateX(100%);
+  }
+}
+```
+
+- We define the start point (from), as a `transform` of `translateX(0)`, and the end point as a `transform` of `translateX(0)`. 
+
+- We can use percentages as well:
+
+```css
+@keyframes slideinOut {
+  0% { transform: translateX(0%); }
+  25% { transform: translateX(25%); }
+  50% { transform: translateX(50%); }
+  75% { transform: translateX(25%); }
+  100% { transform: translateX(0%); }
+}
+```
+
+### how do we use these animations?
+
+We can 'apply' the animatiion to a selector, for example:
+
+```css
+.promoBanner {
+    animation-duration: 3s;
+    animation-name: slideinOut;
+}
+```
+
+Similar to how we use transition, we add the `animation-name` property, to the element/s we want to animate.
+
+Other useful properties:
+
+- `animation-iteration-count: infinite;` will repeat the animation constantly.
+- `animation-direction: alternate;` will run the animation first forward, then in reverse.
+- `animation-delay: 2s` delays the start of the animation, same as transition delay
+- `animation-timing-function: linear` works the same as our tranisition timing function, controls the 'velocity' of the animation.
+
+We can use a shorthand for our animation properties. The below examples, do the same thing.
+
+```css 
+{
+  animation-name: test;
+  animation-duration: 1s;
+  animation-timing-function: ease-in;
+  animation-delay: 0.5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+{
+  animation: test 1s ease-in 0.5s infinite alternate;
+}
+```
 
 ## Learn more
 
--   [W3Schools: Transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+-   [W3 Schools: CSS @keyframes Rule](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)
+-   [W3 Schools: Css Animations](https://www.w3schools.com/css/css3_animations.asp)
+-   [Mozilla: Using Css animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
