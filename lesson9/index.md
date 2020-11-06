@@ -31,6 +31,6 @@ any of these elements there:
 - navigation with `ul` > `li`
 - other headings we have (you decide what they are)
 - text with `p`
-- lists (ordered and/or underered) if we have
-- links! What happen when you click here or there? Where that link will take you?
+- lists (ordered and/or unordered) if we have
+- links! What happens when you click here or there? Where that link will take you?
 

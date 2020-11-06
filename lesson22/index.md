@@ -1,16 +1,15 @@
 ---
-title: Css Animations Part 1
+title: CSS Animations Part 1
 nav_order: 22
 ---
 
-# Css Animations Part 1
+# CSS Animations Part 1
 
-Most, if not all modern websites make use of animations. Chances are when you hover your mouse over a link, or tap a button on your
-phone / tablet, a css property will change - perhaps a color, or text decoration, or things may even move around.
+Most, if not all modern websites make use of animations. Chances are when you hover your mouse over a link or tap a button on your phone/tablet, a CSS property will change - perhaps a color, or text-decoration, or things may even move around.
 
-In this lesson we'll learn how to apply these simple animations to add some sparkle to your sites!
+In this lesson, we'll learn how to apply these simple animations to add some sparkle to your sites!
 
-Here is an [example](./sunset.html) of the power of css animation!
+Here is an [example](./sunset.html) of the power of CSS animation!
 
 ### Animating using Pseudo-classes:
 
@@ -33,15 +32,15 @@ let's say we have a menu link with some text:
 
 What are we doing here?
 
--   When a user `hovers` over the menu link element, the color will change, and the text will be underlined.
--   There are lots and lots of css properties we can animate, but not all.
+-   When a user `hover`s over the menu link element, the color will change, and the text will be underlined.
+-   There are lots and lots of CSS properties we can animate, but not all.
 -   Generally, if a property is part of a range (eg a number, or a color) we can animate like this.
 
-Let's add some hover effects to our websites, or play around with a new html file!
+Let's add some hover effects to our websites, or play around with a new HTML file!
 
 ### Actually Animating :D
 
--   We can change properties now, but we aren't really animating, we're just changing going frome one state to another instantly.
+-   We can change properties now, but we aren't really animating, we're just changing going from one state to another instantly.
 -   This is where our friend `transition` comes in!
 
 ```css
@@ -53,7 +52,7 @@ Let's add some hover effects to our websites, or play around with a new html fil
 ```
 
 -   If we were to open our website now, we should see the properties animating when we trigger them. But, what is the transition property actually doing?
--   Transition is a `shorthand` (combining multiple css properties in one line, for example margin, border) which covers different properties, below
+-   Transition is a `shorthand` (combining multiple CSS properties in one line, for example, margin, border) which covers different properties, below
     is the equivalent of writing as a shorthand:
 
 ```css
@@ -71,8 +70,8 @@ What is each property doing?
 
 -   transition-property: which properties will be animated. we can animate all, or choose 1 or more individually.
 -   transition-duration: how long the animation takes.
--   transition-timing-function: a little complex, but you can think of it as if the speed of the animation is smooth, or it speeds up, slows down etc.
--   transition-delay: how long after the animtation is trigged, that it should actually begin.
+-   transition-timing-function: a little complex, but you can think of it as if the speed of the animation is smooth, or it speeds up, slows down, etc.
+-   transition-delay: how long after the animation is triggered, that it should actually begin.
 
 Let's add some transitions!
 

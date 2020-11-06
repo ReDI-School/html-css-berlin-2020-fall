@@ -25,8 +25,8 @@ can download it from [https://www.google.com/chrome/](https://www.google.com/chr
 ## A good folder structure
 
 We will follow conventions to make it is easier for each of us to see and understand the different projects. We will
-create a folder called ReDI HTML&CSS Lessons and inside that folder we will make one new folder per project. Each
-project folder will have two extra folders; one for all the images, called img and one for the css files. At root level
+create a folder called ReDI HTML&CSS Lessons and inside that folder, we will make one new folder per project. Each
+project folder will have two extra folders; one for all the images, called img and one for the CSS files. At the root level
 (that is, inside the project folder) we will have the different HTML files.
 
 <img src="./folders.png" width="200" height="149" />
@@ -34,7 +34,7 @@ project folder will have two extra folders; one for all the images, called img a
 ## Slack
 
 There are many communication tools, but we officially chose Slack. There we have a channel for the class where we can
-share materials, examples, links, updates about the classes etc. Everyone is on that channel so let's check if we have
+share materials, examples, links, updates about the classes, etc. Everyone is on that channel so let's check if we have
 it installed and is working. If it's not on your computer, you can download it from 
 [https://slack.com](https://slack.com).
 

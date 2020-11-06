@@ -1,18 +1,18 @@
 ---
-title: Css Animations Part 2
+title: CSS Animations Part 2
 nav_order: 23
 ---
 
-# Css Animations Part 2
+# CSS Animations Part 2
 
-Let's take a look at some more css animation concepts:
+Let's take a look at some more CSS animation concepts:
 
 -   Transforms
 -   Keyframes
 
 ## The CSS Property Transform:
 
-This handy property lets us move an element, rotate it, distort it or change the size.
+This handy property lets us move an element, rotate it, distort it, or change the size.
 
 Tranform types:
 
@@ -21,7 +21,7 @@ Tranform types:
 -   skew (distort)
 -   translate (aka move across 2d / 3d planes)
 
-We can combine these types, and do some really powerful things with it, but it means that using the property can get quite complex. Let's stick to some simple examples for now, as we we learn and practice!
+We can combine these types, and do some really powerful things with it, but it means that using the property can get quite complex. Let's stick to some simple examples for now, as we learn and practice!
 
 ```css
 .elementToTransform:hover {
@@ -57,7 +57,7 @@ What do you think each of the above properties will do?
 
 ---
 
-You might be wondering, if i can just do something like this:
+You might be wondering if I can just do something like this:
 
 ```css
 .elementToMakeBigger {
@@ -75,7 +75,7 @@ You might be wondering, if i can just do something like this:
 
 Then why bother using transform:scale()?
 
-The answer is a little complex, and beyond the scope of our course; but basically, it's easier for the browser to change size or position using transform, than changing the height / width etc directly. This means your animations will be much smoother!
+The answer is a little complex, and beyond the scope of our course; but basically, it's easier for the browser to change size or position using transform, than changing the height/width, etc directly. This means your animations will be much smoother!
 
 ## The CSS Property Keyframes:
 

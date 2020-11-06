@@ -33,7 +33,7 @@ li.special {
 }
 ```
 
-**How does it works**
+**How does it work**
 
 - Specificity determines, which CSS rule is applied by the browsers
 - Specificity is usually the reason why your CSS-rules don’t apply to some elements, although you think they should
