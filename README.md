@@ -75,5 +75,5 @@ You can then visit the website on [localhost:4000](http://localhost:4000).
 
 Note this website uses Just The Docs, a well-known Jekyll theme, customized with ReDI colors and logos.
 
-For instuctions and examples of what the theme can do, and how you can do the
+For instructions and examples of what the theme can do, and how you can do the
 same in your course pages, please see: https://pmarsceill.github.io/just-the-docs
