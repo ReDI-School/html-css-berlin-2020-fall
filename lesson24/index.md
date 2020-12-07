@@ -33,7 +33,7 @@ Below is an example of some typical grid properties:
 ```
 ![GridExample1](gridExample1.png)
 
-Whats going on here then?
+What's going on here then?
 
 For the parent Element:
 
@@ -42,7 +42,7 @@ For the parent Element:
 
 For the child Element:
 
-- We add the property `grid-column-start: 2;`, this means the element will __start__ from the beginning of second column.
+- We add the property `grid-column-start: 2;`, this means the element will __start__ from the beginning of the second column.
 - We add the property `grid-column-end: 3;`, this means the element will __end__ before the third column.
 
 
@@ -86,8 +86,8 @@ Now we have a 2 dimensional grid with rows and columns, and can position element
 
 We don't just have to use pixels to size our grids. There are lots of different units, but the one i would like to mention today is `fr`, which is a __fractional unit__.
 
-- `grid-template-columns: 1fr 1fr 1fr 1fr;` would create a grid with 4 equal sized columns, aka quarters.
-- `grid-template-columns: 1fr 2fr 1fr;` would create a grid with 3 columns, the first one being a quarter of total size, second one being half the total size, and finally the third column being a quarter of the total size again.
+- `grid-template-columns: 1fr 1fr 1fr 1fr;` would create a grid with 4 equal-sized columns, aka quarters.
+- `grid-template-columns: 1fr 2fr 1fr;` would create a grid with 3 columns, the first one being a quarter of the total size, second one being half the total size, and finally the third column being a quarter of the total size again.
 
 For grids with lots of equal sized columns, we can save a bit of time by writing this:
 
@@ -103,10 +103,10 @@ This will create 12, equally sized columns, very handy!
 
 
 ### Other grid properties
- - `column-gap` This let's us add space between each column (called 'gutters'), very handy!
+ - `column-gap` This lets us add space between each column (called 'gutters'), very handy!
  - `row-gap` Same, but for rows.
 
-There are lots of other grid properties, but i'd suggest getting comfortable with what we know so far, before checking them out.
+There are lots of other grid properties, but I'd suggest getting comfortable with what we know so far, before checking them out.
 
 ### Quiz
 
