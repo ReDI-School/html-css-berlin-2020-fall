@@ -83,4 +83,4 @@ Let's recognize headings, paragraphs, and lists on our paper websites
 
 **Learn more**:
 
-- [W3Schools: HTML Documents, Headings, Paragraphs and Lists](https://www.w3schools.com/html/html_basic.asp)
+- [W3Schools: HTML Basic Examples](https://www.w3schools.com/html/html_basic.asp)
