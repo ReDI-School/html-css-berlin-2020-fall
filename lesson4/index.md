@@ -8,9 +8,9 @@ nav_order: 4
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With
 Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
 
--   Hypertext Markup Language: HTML is a language for writing documents
--   Hypertext: Documents link to each other
--   Markup: Describes the semantic role of parts of a document
+- **Hypertext Markup Language**: HTML is a language for writing documents
+- **Hypertext**: Documents link to each other
+- **Markup**: Describes the semantic role of parts of a document
 
 ## Semantic markup
 
@@ -36,10 +36,10 @@ contained between the opening and closing tags. With semantic markup the tags th
 
 HTML tags are element names surrounded by angle brackets: `<tagname>content goes here...</tagname>`
 
--   HTML tags normally come in pairs like `<p>` and `</p>`
--   The first tag in a pair is the start tag, the second tag is the end tag
--   The end tag is written like the start tag, but with a forward slash inserted before the tag name
--   **Tip**: The start tag is also called the opening tag, and the end tag is called the closing tag.
+- HTML tags normally come in pairs like `<p>` and `</p>`
+- The first tag in a pair is the _start tag_, the second tag is the _end tag_
+- The end tag is written like the start tag, but with a forward slash inserted before the tag name
+- **Tip**: The start tag is also called the _opening tag_, and the end tag is called the _closing tag_
 
 ## HTML page structure
 
@@ -67,7 +67,7 @@ Let's all follow these steps:
 
 1. On the desktop of your computer, create a folder called `ReDI HTML&CSS Lessons`
 2. Inside that folder, create another folder called `First Exercise`
-3. Open Atom
+3. Open **Atom**
 4. Create a new file (`File > New File` or with `Control + N`)
 5. Save the file as `index.html` inside the `First Exercise folder`
 6. Write the code that we show above this list
