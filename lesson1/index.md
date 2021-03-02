@@ -11,12 +11,10 @@ In this course we will learn how websites are made and teach you how to build yo
 
 * AbdelHamid
 * Barbara
-* Busayo
 * Darren
-* Dasom
 * Flaco
-* Mariia
-* Matteo
-* Stephan
-* Patrycja
-* Umar
+* Jeff
+* Jon
+* Laura
+* Neuza
+* Stephen
