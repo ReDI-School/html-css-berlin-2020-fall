@@ -59,7 +59,7 @@ sem sed arcu. Etiam quis quam. Nullam at arcu a est sollicitudin euismod. Aenean
 
 ## Let's see CSS at work
 
-Here is the [Museum's page](./museums.html) example.
+Here is the [Museums page](./museums.html) example.
 
 ## Some sources for colors
 
@@ -69,7 +69,7 @@ Here is the [Museum's page](./museums.html) example.
 
 **Learn more**:
 
-- [W3Schools: CSS Syntax and Selectors](https://www.w3schools.com/css/css_syntax.asp)
+- [W3Schools: CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
 - [W3Schools: CSS Colors](https://www.w3schools.com/css/css_colors.asp)
 - [W3Schools: CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
