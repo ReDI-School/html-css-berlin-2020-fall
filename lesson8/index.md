@@ -29,9 +29,9 @@ Please compare carefully [the four options](./correct-render.pdf) and choose the
 
 You can see the examples below or [check the errors on a pdf](./find-the-errors.pdf).
 
-```html
-EXAMPLE ONE
+#### Example one
 
+```html
 <h1>Welcome to ReDI school!</h2>
 <p>We are learning how to do a page with</p>
 <ul>
@@ -44,10 +44,11 @@ EXAMPLE ONE
     <li>links</li>
     <li>comments</li>
 </ul>
+```
 
+#### Example two
 
-EXAMPLE TWO
-
+```html
 <h2>Welcome to ReDI school!</h2>
 <p>We are learning how to do a page with</p>
 <h3>
@@ -59,10 +60,11 @@ EXAMPLE TWO
     <ul>links</li>
     <li>comments</ul>
 </h3>
+```
 
+#### Example three
 
-EXAMPLE THREE
-
+```html
 <h1>Welcome to ReDI school!</h1>
 <ul>
 <p>We are learning how to do a page with</p>

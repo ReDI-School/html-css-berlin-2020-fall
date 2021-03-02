@@ -5,7 +5,7 @@ nav_order: 7
 
 # More HTML Basics
 
-## HTML Comments
+## HTML comments
 
 When we code is very useful (and important) to write notes for ourselves or for colleagues who might use the code later.
 A description of what a certain part of the website is for, a reference, a code hidden for the future etc; all of this
@@ -56,7 +56,7 @@ Links _between_ documents that can be __anywhere__ in the world
 
 ![Tenor](tenor.gif)
 
-<video style="width: 100%;" class="center" id="video_D30_10_008_html5_api" autoplay="" loop="" preload="auto" 
+<video style="width: 100%;" class="center" id="video_D30_10_008_html5_api" autoplay="" loop="" preload="auto"
     poster="//cdn8.dissolve.com/p/D30_10_008/D30_10_008_0004_600.jpg" muted="">
     <source src="https://cdn6.dissolve.com/p/D30_10_008/D30_10_008_detail.mp4" type="video/mp4">
 </video>
