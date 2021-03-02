@@ -12,7 +12,7 @@ Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone tec
 -   Hypertext: Documents link to each other
 -   Markup: Describes the semantic role of parts of a document
 
-## Semantic Markup
+## Semantic markup
 
 Many HTML tags have semantic meaning. That is, the element itself conveys some information about the type of content
 contained between the opening and closing tags. With semantic markup the tags themselves become a way to tell a machine
@@ -20,7 +20,7 @@ contained between the opening and closing tags. With semantic markup the tags th
 
 ## HTML structure
 
-**Heading**: it contains information about the document such as title, scripts, styles, meta information, and more:
+**Head**: it contains information about the document such as title, scripts, styles, meta information, and more:
 
 ```html
 <head></head>
@@ -32,17 +32,16 @@ contained between the opening and closing tags. With semantic markup the tags th
 <body></body>
 ```
 
-## HTML Tags
+## HTML tags
 
 HTML tags are element names surrounded by angle brackets: `<tagname>content goes here...</tagname>`
 
 -   HTML tags normally come in pairs like `<p>` and `</p>`
-
 -   The first tag in a pair is the start tag, the second tag is the end tag
 -   The end tag is written like the start tag, but with a forward slash inserted before the tag name
 -   **Tip**: The start tag is also called the opening tag, and the end tag is called the closing tag.
 
-## HTML Page Structure
+## HTML page structure
 
 Below is a visualization of an HTML page structure:
 
@@ -66,13 +65,13 @@ Below is a visualization of an HTML page structure:
 
 Let's all follow these steps:
 
-1. On the desktop of your computer, create a folder called ReDI HTML&CSS Lessons
-2. Inside that folder, create another folder called First Exercise
+1. On the desktop of your computer, create a folder called `ReDI HTML&CSS Lessons`
+2. Inside that folder, create another folder called `First Exercise`
 3. Open Atom
-4. Create a new file (File > New File or with Control + N)
-5. Save the file as index.html inside the First Exercise folder
-6. Write the code that we show above this list.
-7. Open the file with **Chrome** to see how it looks.
+4. Create a new file (`File > New File` or with `Control + N`)
+5. Save the file as `index.html` inside the `First Exercise folder`
+6. Write the code that we show above this list
+7. Open the file with **Chrome** to see how it looks
 8. Yes, it looks great.
 
 **Learn more**:

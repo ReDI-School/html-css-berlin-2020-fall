@@ -7,9 +7,9 @@ nav_order: 5
 
 **Doctype, headings, paragraphs, lists**
 
-## The <!DOCTYPE> Declaration
+## The <!DOCTYPE> declaration
 
-The `<!DOCTYPE>` Declaration represents the document type, and helps browsers to display web pages correctly. It must 
+The `<!DOCTYPE>` declaration represents the document type, and helps browsers to display web pages correctly. It must
 only appear once, at the top of the page (before any HTML tags).
 
 - The `<!DOCTYPE>` declaration is not case sensitive.
@@ -37,7 +37,7 @@ only appear once, at the top of the page (before any HTML tags).
 important to use the right HTML tags for each content element. Semantics are important: a well structured HTML document
 will be rendered correctly by all browsers and properly scanned and stored by the search engines.</p>
 
-## Quick Exercise
+## Quick exercise
 
 Take the HTML file that you code before (the one with `h1` and `p`) and add `h2`, `h3`, `h4`, `h5` and `h6`.
 
@@ -47,7 +47,7 @@ Take the HTML file that you code before (the one with `h1` and `p`) and add `h2`
 
 Lists are one of the most used HTML tags. There are two kinds of lists:
 
-## Unordered Lists
+### Unordered Lists
 
 <ul>
     <li>This is the first item</li>
@@ -56,7 +56,7 @@ Lists are one of the most used HTML tags. There are two kinds of lists:
     <li>This is the fourth item</li>
 </ul>
 
-## Ordered Lists
+### Ordered Lists
 
 <ol>
     <li>This is the first item</li>
